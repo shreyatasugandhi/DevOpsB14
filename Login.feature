@@ -18,6 +18,8 @@
 # Sample Feature Definition Template
 
 
+
+
 Feature: Login functionality
   As a user I should be able to log into the application with only valid credentials
   and should get error message when entered invalid credentials in order to validate login feature.
